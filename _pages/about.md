@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font color="red">This text is red!</font>
+<font color="red">This personal page is still UNDER DEVELOPMENT!</font>
 
 My PhD degree of Statistics was obtained in December 2019 at Huazhong University of Science and Technology (HUST) in China, under the direction of Prof.\ Jinqiao Duan. I was a visiting scholar at the University of Illinois at Urbana-Champaign (UIUC) from September 2017 to February 2019, hosted by Prof.\ Renming Song. I have finished my career as a postdoctoral researcher at the University of Lisbon (ULisboa) in Portugal, which started in October 2020 and ended in September 2022. After that, I have been working as a research fellow at Nanyang Technological University (NTU) in Singapore.
 
