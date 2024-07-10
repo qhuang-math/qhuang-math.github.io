@@ -22,7 +22,7 @@ author_profile: true
 - Stochastic differential geometry & Stochastic geometric mechanics
 - Random trees & branching processes
 
-
+---
 ## Publications
 
 ### Journal papers
@@ -62,7 +62,8 @@ DOI: [10.1007/978-3-031-38271-0_58](http://dx.doi.org/10.1007/978-3-031-38271-0_
 - **Qiao Huang**, Jean-Claude Zambrini. Hamilton--Jacobi--Bellman equations in stochastic geometric mechanics. MaxEnt 2022--the 41st International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering, *Physical Sciences Forum*, 5(1), 37, 2022. 
 DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037) 
 
-### Preprints
+---
+## Preprints
 
 - **Qiao Huang**, Nicolas Privault. On the random generation of Butcher trees, 2024. 
 ArXiv: [2404.05969](https://arxiv.org/abs/2404.05969) 
@@ -75,3 +76,23 @@ ArXiv: [1910.05721](https://arxiv.org/abs/1910.05721)
 
 - Wei Wei, **Qiao Huang**, Jinqiao Duan. Large deviations for stochastic differential equations driven by heavy-tailed Lévy processes. 2021. 
 ArXiv: [2101.03856](https://arxiv.org/abs/2101.03856)
+
+---
+## Projects
+
+- [Schrödinger's Problem and Optimal Transport: a multidisciplinary perspective (SchröMoka)](https://sites.google.com/view/schromoka/home)
+  - PI: Prof. Jean-Claude Zambrini
+  - Ref: PTDC/MAT-STA/28812/2017, FCT Portugal
+  - My role & duration: team member, 2020.10 -- 2022.09
+
+- Nonstationary shot-noise modeling of neuron membrane potentials by point processes & Combinatorial stochastic analysis for the connectivity of random graphs - applications to vehicular and wireless networks
+  - PI: Prof. Nicolas Privault
+  - Ref: #020686-00001 & #020841-00001, MOE Singapore
+  - My role & duration: team member, 2022.09 -- 2024.05
+
+- Stochastic homogenization with applications to materials science
+  - PI: Qiao Huang
+  - Ref: Fundamental Research Funds for Central Universities #0118011072, HUST
+
+---
+## Talks and presentations
