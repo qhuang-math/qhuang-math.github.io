@@ -16,11 +16,12 @@ author_profile: true
 {% endfor %}
 
 
-# Research interests
+## Research interests
 
 - Stochastic dynamics & stochastic analysis
 - Stochastic differential geometry & Stochastic geometric mechanics
 - Random trees & branching processes
+
 
 ## Journal papers
 
