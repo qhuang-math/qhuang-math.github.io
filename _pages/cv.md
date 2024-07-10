@@ -38,7 +38,7 @@ redirect_from:
   * Thesis advisor: Prof. [Yanbin Tang](https://www.researchgate.net/profile/Yanbin_Tang)
   * Thesis: Asymptotic behavior of solutions to dissipative quasi-geostrophic equations. (In Chinese)
 
-  
+
 ## Service
 
 * 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society
