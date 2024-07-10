@@ -9,8 +9,16 @@ redirect_from:
 
 <font color="red">This personal page is still UNDER DEVELOPMENT!</font>
 
-My PhD degree of Statistics was obtained in December 2019 at Huazhong University of Science and Technology (HUST) in China, under the direction of Prof.\ Jinqiao Duan. I was a visiting scholar at the University of Illinois at Urbana-Champaign (UIUC) from September 2017 to February 2019, hosted by Prof.\ Renming Song. I have finished my career as a postdoctoral researcher at the University of Lisbon (ULisboa) in Portugal, which started in October 2020 and ended in September 2022. After that, I have been working as a research fellow at Nanyang Technological University (NTU) in Singapore.
 
-My current interest is principally the interdisciplinary between stochastic analysis and differential geometry. During my first postdoctoral period, I participated in the project ``Schr\"odinger's problem and optimal transport: A multidisciplinary perspective (Schr\"oMoka)'' led by my advisor Prof. Jean-Claude Zambrini. Working with him, I co-founded a theory that we call stochastic geometric mechanics, and published a paper ``From second-order differential geometry to stochastic geometric mechanics'' in the Journal of Nonlinear Science. Based on second-order differential geometry, this theory constructs a stochastic version of geometric mechanics, containing stochastic symmetries, stochastic Lagrangian and Hamiltonian mechanics and their relations with second-order Hamilton--Jacobi--Bellman (HJB) equations. More precisely, inspired by Schr\"odinger's problem in optimal transport, we established stochastic Lagrangian mechanics, which can successfully recover Schr\"odinger's problem as a special case. Thus, stochastic Lagrangian mechanics provides an equivalent geometric perspective of stochastic optimal transport. Meanwhile, based on the construction of second-order symplectic structure, we established stochastic Hamiltonian mechanics, explored its canonical transformations and derived second-order Hamilton--Jacobi--Bellman (HJB) equations, and also figured out the equivalence between the latter with the above stochastic geometric mechanics. On the other hand, we studied symmetries of stochastic differential equations by constructing stochastic jets, and thus established the stochastic Noether's theorem for the above two stochastic mechanics. All these constitute the theory of stochastic geometric mechanics.
+I am currently a research fellow at Nanyang Technological University (NTU). Starting from August 2024, I will be an associate researcher at the Southeast University in Nanjing, China. I obtained my Ph.D. degree in Statistics from Huazhong University of Science and Technology in Wuhan, China, in December 2019, supervised by Prof. Jinqiao Duan.
 
-Based on this foundational theory, there are many theoretical problems and applications worth studying in the future. Among others, we can consider the axiomatization of second-order differential geometry, stochastic contact Hamiltonian mechanics, extensions to higher order and connections with SPDEs, and applications in thermodynamics, hydrodynamics, optics, quantum mechanics, and relativity. 
+My research area is in stochastic dynamics and differential geometry. 
+
+Contact information
+
+Division of Mathematical Sciences
+School of Physical and Mathematical Sciences
+Nanyang Technological University
+21 Nanyang Link, Singapore 637371
+
+Email: qiao.huang@ntu.edu.sg
