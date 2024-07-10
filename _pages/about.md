@@ -17,12 +17,9 @@ My research area is in stochastic dynamics and differential geometry.
 
 ## Contact information
 
-Division of Mathematical Sciences
-
-School of Physical and Mathematical Sciences
-
-Nanyang Technological University
-
-21 Nanyang Link, Singapore 637371
+Division of Mathematical Sciences<br>
+School of Physical and Mathematical Sciences<br>
+Nanyang Technological University<br>
+21 Nanyang Link, Singapore 637371<br>
 
 Email: qiao.huang@ntu.edu.sg
