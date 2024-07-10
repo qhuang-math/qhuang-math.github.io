@@ -16,6 +16,12 @@ author_profile: true
 {% endfor %}
 
 
+# Research interests
+
+- Stochastic dynamics & stochastic analysis
+- Stochastic differential geometry & Stochastic geometric mechanics
+- Random trees & branching processes
+
 ## Journal papers
 
 - **Qiao Huang**, Jinqiao Duan, Renming Song. Homogenization of nonlocal partial differential equations related to stochastic differential equations with Lévy noise. *Bernoulli*, 28(3):1648--1674, 2022. 
