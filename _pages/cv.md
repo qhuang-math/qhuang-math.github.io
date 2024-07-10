@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
+
+## Work experience
+
 * 2024.08 -- present: Tenure-track associate professor
   * School of Mathematics, Southeast University, Nanjing, China
 
@@ -22,8 +23,9 @@ Work experience
   * University of Lisbon, Portugal
   * Advisor: Prof. [Jean-Claude Zambrini](http://gfm.cii.fc.ul.pt/people/jczambrini/)
 
-Education
-======
+
+## Education
+
 * 2014.09 -- 2019.12: Ph.D. in Statistics
   * Huazhong University of Science and Technology, China
   * Supervisor: Prof. [Jinqiao Duan](https://jqduan.github.io/)
@@ -36,24 +38,7 @@ Education
   * Thesis advisor: Prof. [Yanbin Tang](https://www.researchgate.net/profile/Yanbin_Tang)
   * Thesis: Asymptotic behavior of solutions to dissipative quasi-geostrophic equations. (In Chinese)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
+## Service
+
 * 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society
