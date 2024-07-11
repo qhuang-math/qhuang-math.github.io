@@ -12,6 +12,8 @@ toc: true
 
 {% include base_path %}
 
+{% include toc %}
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
