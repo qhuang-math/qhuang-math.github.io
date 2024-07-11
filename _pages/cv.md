@@ -43,7 +43,7 @@ redirect_from:
 
 ## Service
 
-* 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society
+* 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society.
 
 
 ## Talks and presentations

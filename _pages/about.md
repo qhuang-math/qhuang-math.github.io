@@ -10,7 +10,7 @@ redirect_from:
 <font color="red">This personal page is still UNDER DEVELOPMENT!</font>
 
 
-I am currently a research fellow at Nanyang Technological University (NTU). Starting from August 2024, I will be an associate researcher (副研究员) at the Southeast University (SEU) in Nanjing, China. I obtained my Ph.D. degree in Statistics from Huazhong University of Science and Technology (HUST) in Wuhan, China, in December 2019, supervised by Prof. Jinqiao Duan.
+I am currently a research fellow at Nanyang Technological University (NTU). Starting from August 2024, I will be an associate researcher (副研究员) at the Southeast University (SEU) in Nanjing, China. I obtained my Ph.D. degree in Statistics from Huazhong University of Science and Technology (HUST) in Wuhan, China, in December 2019, supervised by Prof. [Jinqiao Duan](https://jqduan.github.io/).
 
 My research area is in stochastic dynamics and differential geometry. 
 
