@@ -13,7 +13,7 @@ redirect_from:
 
 ## Work experience
 
-* 2024.08 -- present: Tenure-track associate professor
+* 2024.08 -- present: Associate researcher
   * School of Mathematics, Southeast University, Nanjing, China
 
 * 2022.09 -- 2024.07: Research fellow
