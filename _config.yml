@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Associate Researcher"
   location         : # "Nanjing"
-  employer         : "SEU"
+  employer         : "Math @ SEU"
+  employeruri      : "https://math.seu.edu.cn/mathen/"
   uri              : # URL
   email            : "qhuang.math@gmail.com" 
 
