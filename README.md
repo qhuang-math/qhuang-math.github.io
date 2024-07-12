@@ -7,14 +7,17 @@ List of changes:
   - footer/custom.html
   - author-profile.html
   - footer.html
-  - toc.html
+  - toc.html (added from [jayrobwilliams.github.io/includes/](https://github.com/jayrobwilliams/jayrobwilliams.github.io/tree/master/_includes)toc.html)
 - _layouts/single.html
 - _pages/
   - about.md
   - cv.md
+  - markdown.md (deleted)
+  - portfolio.html (deleted)
   - research.md (orginal is _pages/publications.md)
   - talks.md (orginal is _pages/talks.html)
   - teaching.md (orginal is _pages/teaching.html)
+  - year-archive.html (deleted)
 - Deleted all files in 
   - _portfolio/
   - _posts/
@@ -33,6 +36,7 @@ List of changes:
   - images/favicon-32x32.png
   - images/favicon.ico
   - images/profile.png
+  - images/site.webmanifest
 - _config.yml
 - package-lock.json (automatically produced)
 - README.md
