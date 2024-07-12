@@ -28,7 +28,7 @@ List of changes:
 - _sass/
   - _sidebar.scss
   - _variables.scss
-- images/
+- images/ (favicon files were generated using [favicon-generator](https://redketchup.io/favicon-generator))
   - android-chrome-192x192.png
   - android-chrome-512x512.png
   - apple-touch-icon.png
