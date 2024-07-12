@@ -29,14 +29,14 @@ redirect_from:
 ## Education
 
 * 2014.09 -- 2019.12: Ph.D. in Statistics
-  * Huazhong University of Science and Technology, China
+  * Huazhong University of Science and Technology, Wuhan, China
   * Supervisor: Prof. [Jinqiao Duan](https://jqduan.github.io/)
   * Thesis: Periodic homogenization of Feller processes with jumps. (In Chinese)
 * 2017.09 -- 2019.02: CSC visiting student
   * University of Illinois at Urbana-Champaign, USA
   * Advisor: Prof. [Renming Song](http://rsong.web.illinois.edu/)
 * 2014.09 -- 2019.12: B.S. in Mathematics
-  * Huazhong University of Science and Technology, China
+  * Huazhong University of Science and Technology, Wuhan, China
   * Thesis advisor: Prof. [Yanbin Tang](https://www.researchgate.net/profile/Yanbin_Tang)
   * Thesis: Asymptotic behavior of solutions to dissipative quasi-geostrophic equations. (In Chinese)
 
