@@ -30,6 +30,9 @@ toc: true
 
 ### Journal papers
 
+- Wei Wei, **Qiao Huang**, Jinqiao Duan. Large deviations for stochastic differential equations driven by heavy-tailed Lévy processes. *Theory of Probability and its Applications*, 69(3):578--610, 2024.
+DOI: [10.4213/tvp5549](https://doi.org/10.4213/tvp5549)
+
 - Yuanfei Huang, **Qiao Huang**, Jinqiao Duan. The most probable transition paths of stochastic dynamical systems: A sufficient and necessary characterization. *Nonlinearity*, 37(1):015010 (45pp), 2024. 
 DOI: [10.1088/1361-6544/ad0ffe](https://doi.org/10.1088/1361-6544/ad0ffe) 
 
@@ -76,9 +79,6 @@ ArXiv: [1910.05720](https://arxiv.org/abs/1910.05720)
 
 - **Qiao Huang**, Wei Wei, Jinqiao Duan. Rolling with random slipping and twisting: A large deviation point of view. 2023.
 ArXiv: [1910.05721](https://arxiv.org/abs/1910.05721)
-
-- Wei Wei, **Qiao Huang**, Jinqiao Duan. Large deviations for stochastic differential equations driven by heavy-tailed Lévy processes. 2021. 
-ArXiv: [2101.03856](https://arxiv.org/abs/2101.03856)
 
 
 ## Projects

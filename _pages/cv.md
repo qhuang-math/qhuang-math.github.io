@@ -66,10 +66,10 @@ redirect_from:
   - [The 7th International Conference on Random Dynamical Systems (RDS2022)](http://math.ac.vn/conference/RDS2021_22/index.php?option=com_content&view=article&id=102:home-rds2022&catid=78:hoi-nghi&Itemid=435&lang=vi), Hanoi, Vietnam. 
   - Talk (online): A theory of stochastic geometric mechanics.
 - 2022.06.21 -- 24
-  - [Optimal transport, geometric and stochastic hydrodynamics (SchröMoka 2022)''](https://sites.google.com/view/schromoka-2022-conference/), University of Lisbon, Portugal. 
+  - [Optimal transport, geometric and stochastic hydrodynamics (SchröMoka 2022)](https://sites.google.com/view/schromoka-2022-conference/), University of Lisbon, Portugal. 
   - Talk: Stochastic geometric mechanics & stochastic integrability.
 - 2022.05.30 -- 06.03
-  - [Stochastic Analysis and Stochastic Partial Differential Equations''](https://www.crm.cat/conference-on-stochastic-analysis-and-stochastic-pdes/), Centre de Recerca Matemàtica (CRM), Barcelona.
+  - [Stochastic Analysis and Stochastic Partial Differential Equations](https://www.crm.cat/conference-on-stochastic-analysis-and-stochastic-pdes/), Centre de Recerca Matemàtica (CRM), Barcelona.
   - Poster: A Theory of Stochastic Geometric Mechanics.
 - 2022.02.07
   - [Mathematical Physics Seminar Series](https://www.maths.sussex.ac.uk/seminars/mathphys.html), University of Sussex, UK. 
@@ -78,7 +78,7 @@ redirect_from:
   - [Schrödinger's Problem and Optimal Transport (SchröMoka 2021)](https://sites.google.com/view/schromoka-2021-conference/), University of Lisbon, Portugal. 
   - Talk: From Second-order Differential Geometry to a Stochastic Version of Mechanics.
 - 2021.07.12 -- 16
-  - [Encontro Nacional Sociedade Portuguesa de Matem\'atica 2021 (ENSPM2021)](https://enspm2021.spm.pt/), Lisbon, Portugal. 
+  - [Encontro Nacional Sociedade Portuguesa de Matemática 2021 (ENSPM2021)](https://enspm2021.spm.pt/), Lisbon, Portugal. 
   - Talk (online): Stochastic Cucker--Smale (CS) model: Collision-avoidance and flocking.
 - 2020.12.10
   - Lisbon Webinar in Analysis and Differential Equations (WADE), University of Lisbon, Portugal. 
