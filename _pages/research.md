@@ -39,7 +39,7 @@ DOI: [10.1088/1361-6544/ad0ffe](https://doi.org/10.1088/1361-6544/ad0ffe)
 -	Yanjie Zhang, **Qiao Huang**, Xiao Wang, Zibo Wang, Jinqiao Duan. Weak averaging principle for multiscale stochastic dynamical systems driven by stable processes. *Journal of Differential Equations*, 379:721--761, 2024. 
 DOI: [10.1016/j.jde.2023.10.031](https://doi.org/10.1016/j.jde.2023.10.031) 
 
-- **Qiao Huang**, Jean-Claude Zambrini. From second-order differential geometry to stochastic geometric mechanics. *Journal of Nonlinear Science*, 33(4):67 (127pp), 2023. (JCR:Q2; IF:3.530)  
+- **Qiao Huang**, Jean-Claude Zambrini. From second-order differential geometry to stochastic geometric mechanics. *Journal of Nonlinear Science*, 33(4):67 (127pp), 2023.
 DOI: [10.1007/s00332-023-09917-x](https://doi.org/10.1007/s00332-023-09917-x) 
 
 - **Qiao Huang**, Jean-Claude Zambrini. Stochastic geometric mechanics in nonequilibrium thermodynamics: Schrödinger meets Onsager. *Journal of Physics A: Mathematical and Theoretical*, 56(13):134003 (24pp), 2023. 
