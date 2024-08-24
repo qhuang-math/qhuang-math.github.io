@@ -19,5 +19,5 @@ School of Mathematics<br>
 Southeast University<br>
 Nanjing 211189, P.R. China<br>
 
-Work email: qiao.huang@seu.edu.cn
+Work email: qiao.huang@seu.edu.cn<br>
 Personal email: qhuang.math@gmail.com
