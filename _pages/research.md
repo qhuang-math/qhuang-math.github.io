@@ -22,7 +22,7 @@ toc: true
 ## Research interests
 
 - Stochastic dynamics & stochastic analysis
-- Stochastic differential geometry & Stochastic geometric mechanics
+- Stochastic differential geometry & stochastic geometric mechanics
 - Random trees & branching processes
 
 
