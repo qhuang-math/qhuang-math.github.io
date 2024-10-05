@@ -49,6 +49,9 @@ redirect_from:
 ## Talks and presentations
 
 - 2024.05.12 -- 18
+  - [Workshop on Dynamics of SPDEs](), Tianyuan Mathematical Center in Central China, Wuhan University, China. 
+  - Talk: Coded branching diffusion representation for a class of semilinear heat equations.
+- 2024.05.12 -- 18
   - [New Trends in Dynamical Systems: from analysis to structures](http://tianyuan.amss.ac.cn/ztyt/info/2024/145125.html), Tianyuan Mathematics Research Center, Kunming, China. 
   - Talk: Onsager--Machlup functional and Schrödinger's problem revisited, in connection with stochastic geometric mechanics.
 - 2023.09.20
