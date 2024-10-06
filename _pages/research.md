@@ -96,3 +96,4 @@ ArXiv: [1910.05721](https://arxiv.org/abs/1910.05721)
 - Stochastic Homogenization with Applications to Materials Science
   - PI: Qiao Huang
   - Sponsor: Fundamental Research Funds for Central Universities, HUST
+  - Duration: 2016.01 -- 2019.12
