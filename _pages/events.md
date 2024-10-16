@@ -16,13 +16,13 @@ author_profile: true
 
 ## SIAM-DS25
 
-# Conference info
+### Conference info
 - Web: [https://www.siam.org/conferences-events/siam-conferences/ds25/](https://www.siam.org/conferences-events/siam-conferences/ds25/)
 - Dates: May 11–15, 2025.
 - Location: Denver, Colorado, U.S.
 - <font color="red">NOTICE: Three spots are still available for participants in my minisymposium. If you're interested, feel free to email me! Due on November 11, 2024.</font>
 
-# Minisymposium info
+### Minisymposium info
 - Title: Exploring Geometric Mechanics and Dynamics, Deterministic and Stochastic Perspectives.
 - Organizers: Qiao Huang, Pingyuan Wei
 - Description: This minisymposium delves into the intriguing and multifaceted field of geometric mechanics and dynamics, offering a comprehensive exploration of both deterministic and stochastic perspectives. The minisymposium aims to bring together researchers from various disciplines, including stochastic dynamics, geometric mechanics, mathematical physics, and beyond, to discuss recent advancements, theoretical insights, and practical applications in this vibrant field. Key topics to be covered include, but are not limited to:
