@@ -46,7 +46,7 @@ redirect_from:
 * 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society.
 
 
-## Talks and minisymposiums
+## Talks and minisymposiums/sessions
 
 - 2024.05.12 -- 18
   - Workshop on Dynamics of SPDEs, Tianyuan Mathematical Center in Central China, Wuhan University, China. 
