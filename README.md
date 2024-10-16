@@ -14,9 +14,9 @@ This is the academic personal website of Qiao Huang, forked from the Github Page
   - cv.md
   - markdown.md (deleted)
   - portfolio.html (deleted)
-  - research.md (orginal is _pages/publications.md)
-  - talks.md (orginal is _pages/talks.html)
-  - teaching.md (orginal is _pages/teaching.html)
+  - research.md (orginally is _pages/publications.md)
+  - talks.md (orginally is _pages/talks.html)
+  - teaching.md (orginally is _pages/teaching.html)
   - year-archive.html (deleted)
 - Deleted all files in 
   - _portfolio/
@@ -38,5 +38,5 @@ This is the academic personal website of Qiao Huang, forked from the Github Page
   - images/profile.png
   - images/site.webmanifest
 - _config.yml
-- package-lock.json (automatically produced)
+- package-lock.json (automatically generated from nowhere)
 - README.md
