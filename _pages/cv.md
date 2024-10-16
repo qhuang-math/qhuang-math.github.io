@@ -46,10 +46,10 @@ redirect_from:
 * 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society.
 
 
-## Talks and presentations
+## Talks and minisymposiums
 
 - 2024.05.12 -- 18
-  - [Workshop on Dynamics of SPDEs](), Tianyuan Mathematical Center in Central China, Wuhan University, China. 
+  - Workshop on Dynamics of SPDEs, Tianyuan Mathematical Center in Central China, Wuhan University, China. 
   - Talk: Coded branching diffusion representation for nonlinear heat equations.
 - 2024.05.12 -- 18
   - [New Trends in Dynamical Systems: from analysis to structures](http://tianyuan.amss.ac.cn/ztyt/info/2024/145125.html), Tianyuan Mathematics Research Center, Kunming, China. 

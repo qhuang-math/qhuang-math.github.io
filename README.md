@@ -2,7 +2,7 @@
 This is the academic personal website of Qiao Huang, forked from the Github Pages template [Academic Pages](https://github.com/academicpages/academicpages.github.io) on July 8, 2024.
 
 **List of changes:**
-- -data/navigation.yml
+- _data/navigation.yml
 - _includes/
   - footer/custom.html
   - author-profile.html
