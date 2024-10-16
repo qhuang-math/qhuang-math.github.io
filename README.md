@@ -15,7 +15,7 @@ This is the academic personal website of Qiao Huang, forked from the Github Page
   - markdown.md (deleted)
   - portfolio.html (deleted)
   - research.md (orginally is _pages/publications.md)
-  - talks.md (orginally is _pages/talks.html)
+  - events.md (orginally is _pages/talks.html)
   - teaching.md (orginally is _pages/teaching.html)
   - year-archive.html (deleted)
 - Deleted all files in 
