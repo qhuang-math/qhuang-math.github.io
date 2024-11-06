@@ -48,6 +48,9 @@ redirect_from:
 
 ## Talks and minisymposiums/sessions
 
+- 2024.11.01 -- 8
+  - New Advances in Contact and Symplectic Hamiltonian Dynamics, Great Bay University, China.
+  - Talk: A thermodynamical introduction to stochastic geometric mechanics.
 - 2024.05.12 -- 18
   - Workshop on Dynamics of SPDEs, Tianyuan Mathematical Center in Central China, Wuhan University, China. 
   - Talk: Coded branching diffusion representation for nonlinear heat equations.
