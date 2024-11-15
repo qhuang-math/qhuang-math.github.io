@@ -31,7 +31,7 @@ toc: true
 ### Journal papers
 
 - **Qiao Huang**, Wei Wei, Jinqiao Duan. Large deviations for stochastic differential equations driven by semimartingales. *Theory of Probability and its Applications*, 69(3):578--610, 2024.
-DOI: [10.4213/tvp5549](https://doi.org/10.4213/tvp5549)
+DOI: [10.4213/tvp5549](https://doi.org/10.4213/tvp5549) (Russian version) [10.1137/S0040585X97T992045](https://doi.org/10.1137/S0040585X97T992045) (English version)
 
 - Yuanfei Huang, **Qiao Huang**, Jinqiao Duan. The most probable transition paths of stochastic dynamical systems: A sufficient and necessary characterization. *Nonlinearity*, 37(1):015010 (45pp), 2024. 
 DOI: [10.1088/1361-6544/ad0ffe](https://doi.org/10.1088/1361-6544/ad0ffe) 
