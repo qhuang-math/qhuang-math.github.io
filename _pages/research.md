@@ -30,6 +30,9 @@ toc: true
 
 ### Journal papers
 
+- **Qiao Huang**, Wei Wei, Jinqiao Duan. Rolling with random slipping and twisting: A large deviation point of view. *Stochastics and Dynamics*, 2450031 (42 pp), 2024.
+DOI: [10.1142/S021949372450031X](https://doi.org/10.1142/S021949372450031X)
+
 - **Qiao Huang**, Wei Wei, Jinqiao Duan. Large deviations for stochastic differential equations driven by semimartingales. *Theory of Probability and its Applications*, 69(3):578--610, 2024.
 DOI: [10.4213/tvp5549](https://doi.org/10.4213/tvp5549) (Russian version) [10.1137/S0040585X97T992045](https://doi.org/10.1137/S0040585X97T992045) (English version)
 
@@ -76,9 +79,6 @@ ArXiv: [2404.05969](https://arxiv.org/abs/2404.05969)
 
 -	Wei Wei, **Qiao Huang**, Jinqiao Duan. Large deviations for stochastic differential equations driven by heavy-tailed Lévy processes. 2021. 
 ArXiv: [2101.03856](https://arxiv.org/abs/2101.03856) 
-
-- **Qiao Huang**, Wei Wei, Jinqiao Duan. Rolling with random slipping and twisting: A large deviation point of view. 2023.
-ArXiv: [1910.05721](https://arxiv.org/abs/1910.05721)
 
 
 ## Projects
