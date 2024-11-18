@@ -17,3 +17,7 @@ author_profile: true
 - Autumn 2024
   - Course: Probability, Statistics and Stochastic Processes
   - Instructor: [Liang Xu](https://math.seu.edu.cn/xl/list.htm)
+
+## Instructor
+
+TBA
