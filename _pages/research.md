@@ -74,6 +74,9 @@ DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037)
 
 ## Preprints
 
+[5] **Qiao Huang**, Nicolas Privault. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
+ArXiv: [2502.17853](https://arxiv.org/abs/2502.17853) 
+
 [4] **Qiao Huang**, Nicolas Privault. Probabilistic representation of ODE solutions with quantitative estimates, 2025. 
 ArXiv: [2502.10644](https://arxiv.org/abs/2502.10644) 
 
