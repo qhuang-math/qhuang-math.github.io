@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "UPCOMING EVENTS"
+title: "Events"
 permalink: /events/
 author_profile: true
 ---
