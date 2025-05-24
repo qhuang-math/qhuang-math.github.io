@@ -74,7 +74,7 @@ DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037)
 
 ## Preprints
 
-[6] Pingyuan Wei, **Qiao Huang**, Jinqiao Duan. The stochastic Hamilton-Jacobi-Bellman equation on Jacobi structures, 2025.
+[6] Pingyuan Wei, **Qiao Huang**, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures, 2025.
 ArXiv: [2503.11171](https://arxiv.org/abs/2503.11171)
 
 [5] **Qiao Huang**, Nicolas Privault. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
