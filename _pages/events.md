@@ -20,7 +20,7 @@ author_profile: true
 - Web: [https://www.siam.org/conferences-events/siam-conferences/ds25/](https://www.siam.org/conferences-events/siam-conferences/ds25/)
 - Dates: May 11–15, 2025.
 - Location: Denver, Colorado, U.S.
-- <font color="red">NOTICE: One spot is still available for participants in our minisymposium. If you're interested, feel free to email me! Due on March 3, 2025.</font>
+{% - <font color="red">NOTICE: One spot is still available for participants in our minisymposium. If you're interested, feel free to email me! Due on March 3, 2025.</font> %}
 
 ### Minisymposium info
 - Title: Exploring Geometric Mechanics and Dynamics, Deterministic and Stochastic Perspectives.
