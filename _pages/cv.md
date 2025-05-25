@@ -48,6 +48,9 @@ redirect_from:
 
 ## Talks and minisymposiums/sessions
 
+- 2025.05.22 -- 26
+  - [The 15th International Conference on Recent Advances in Applied Dynamical Systems](https://book.yunzhan365.com/wtcxb/anof/mobile/index.html), Jimei University, China.
+  - Talk: Stochastic integrability of Jacobi on Riemannian manifolds.
 - 2025.05.11 -- 15
   - [SIAM Conference on Applications of Dynamical Systems (DS25)](https://www.siam.org/conferences-events/past-event-archive/ds25/), Denver, Colorado, U.S.
   - Organizer of the minisymposiums: [Exploring Geometric Mechanics and Dynamics, Deterministic and Stochastic Perspectives](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82797).
