@@ -61,6 +61,10 @@ redirect_from:
   - [SIAM Conference on Applications of Dynamical Systems (DS25)](https://www.siam.org/conferences-events/past-event-archive/ds25/), Denver, Colorado, U.S.
   - Organizer of the minisymposiums: [Exploring Geometric Mechanics and Dynamics, Deterministic and Stochastic Perspectives](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82797).
   - Talk: [Stochastic integrability of Jacobi](https://meetings.siam.org/sess/dsp_talk.cfm?p=144268).
+- 2025.05.06 -- 08
+  - [2025 SEU Workshop on Stochastic Dynamical Systems and Geometric Mechanics](https://math.seu.edu.cn/2025/0506/c15556a526975/page.htm), Southeast University, China.
+  - Organizer, co-organized with Profs. Jinqiao Duan and Hongjun Gao.
+  - Talk: Second-order Hamilton--Jacobi--Bellman equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
 - 2025.04.18 -- 21
   - [2025 National Conference on Dynamical Systems and Ergodic Theory](https://mm.scimeeting.cn/cn/minisite/index/27928), Hunan First Normal University, China.
   - Talk: Second-order Hamilton--Jacobi--Bellman equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
