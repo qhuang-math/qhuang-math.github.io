@@ -74,6 +74,9 @@ DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037)
 
 ## Preprints
 
+[7] Jianyu Hu, **Qiao Huang**, Yuanfei Huang. A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics, 2025.
+ArXiv: [2508.02469](https://arxiv.org/abs/2508.02469)
+
 [6] Pingyuan Wei, **Qiao Huang**, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures, 2025.
 ArXiv: [2503.11171](https://arxiv.org/abs/2503.11171)
 

@@ -48,6 +48,12 @@ redirect_from:
 
 ## Talks and minisymposiums/sessions
 
+- 2025.07.21 -- 25
+  - [The 8th International Conference on Random Dynamical Systems](https://www.mathematik.uni-konstanz.de/neamtu/research/sonderforschungsbereich), University of Konstanz, Germany.
+  - Talk: Second-order Hamilton--Jacobi--Bellman equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
+- 2025.07.07 -- 11
+  - [The Third HKSIAM Biennial Conference](https://www.math.cuhk.edu.hk/conference/hksiam2025/index.php), Chinese University of Hong Kong, China.
+  - Talk: Second-order Hamilton--Jacobi--Bellman equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
 - 2025.05.22 -- 26
   - [The 15th International Conference on Recent Advances in Applied Dynamical Systems](https://book.yunzhan365.com/wtcxb/anof/mobile/index.html), Jimei University, China.
   - Talk: Stochastic integrability of Jacobi on Riemannian manifolds.
