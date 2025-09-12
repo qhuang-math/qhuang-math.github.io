@@ -49,7 +49,7 @@ redirect_from:
 ## Talks and minisymposiums/sessions
 
 - 2025.09.09 -- 12
-  - [XXXIII International Fall Workshop on Geometry and Physics](https://www.uco.es/congresos/ifwgp2025/), University of C\'ordoba, Spain.
+  - [XXXIII International Fall Workshop on Geometry and Physics](https://www.uco.es/congresos/ifwgp2025/), University of Córdoba, Spain.
   - Talk: Second-order Hamilton--Jacobi equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
 - 2025.07.21 -- 25
   - [The 8th International Conference on Random Dynamical Systems](https://www.mathematik.uni-konstanz.de/neamtu/research/sonderforschungsbereich), University of Konstanz, Germany.
