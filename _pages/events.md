@@ -30,4 +30,4 @@ author_profile: true
   3. Applications in physics: case studies showcasing the application of stochastic mechanics principles in real-world scenarios, such as fluid dynamics, statistical mechanics, quantum mechanics, and the burgeoning field of AI.
   
   This minisymposium promises to be a platform for sharing cutting-edge research, fostering interdisciplinary collaboration, and driving forward the understanding and application of geometric mechanics and dynamics in deterministic and stochastic contexts.
-- Confirmed speakers: Ying Chao, Qinbo Chen, Manuel de León, Francois Gay-Balmaz, Hongjun Gao, Qiao Huang, Xifeng Su, Pingyuan Wei, Yuancheng Xie, Jean-Claude Zambrini, Lei Zhang.
+- Confirmed speakers: Ying Chao, Qinbo Chen, Manuel de León, Hongjun Gao, Qiao Huang, Xifeng Su, Pingyuan Wei, Yuancheng Xie, Lei Zhang.
