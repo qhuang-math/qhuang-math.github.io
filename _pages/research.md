@@ -65,6 +65,9 @@ DOI: [10.1142/S1664360719500152](https://doi.org/10.1142/S1664360719500152)
 
 ### Proceedings
 
+[3] **Qiao Huang**, Jean-Claude Zambrini. Stochastic Maupertuis's principles and Jacobi's integration theorem. GSI'25--the 7th International Conference on Geometric Science of Information, *Lecture Notes in Computer Science*, 16034:406--415, 2025. 
+DOI: [10.1007/978-3-032-03921-7_42](https://doi.org/10.1007/978-3-032-03921-7_42) 
+
 [2] **Qiao Huang**, Jean-Claude Zambrini. Gauge transformations in stochastic geometric mechanics. GSI'23--the 6th International Conference on Geometric Science of Information, *Lecture Notes in Computer Science*, 14071:583--591, 2023. 
 DOI: [10.1007/978-3-031-38271-0_58](http://dx.doi.org/10.1007/978-3-031-38271-0_58) 
 
