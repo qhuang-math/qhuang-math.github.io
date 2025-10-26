@@ -98,6 +98,11 @@ ArXiv: [2101.03856](https://arxiv.org/abs/2101.03856)
 
 ## Projects
 
+- Applications of second-order Hamilton--Jacobi--Bellman equations in nonequilibrium thermodynamic systems
+  - PI: Qiao Huang
+  - Sponsor: NSFC
+  - Duration: 2026.01--2028.12
+
 - Nonstationary shot-noise modeling of neuron membrane potentials by point processes & Combinatorial stochastic analysis for the connectivity of random graphs - applications to vehicular and wireless networks
   - PI: Prof. Nicolas Privault
   - Sponsor: MOE Singapore

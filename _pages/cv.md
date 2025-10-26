@@ -48,6 +48,9 @@ redirect_from:
 
 ## Talks and minisymposiums/sessions
 
+- 2025.10.10 -- 14
+  - [The First Annual Conference on Differential Equations and Dynamical Systems](https://www.smartchair.org/hp/WD2025/TOP/), University of Science and Technology of China, Hefei, China.
+  - Talk: Second-order Hamilton--Jacobi--Bellman equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
 - 2025.09.09 -- 12
   - [XXXIII International Fall Workshop on Geometry and Physics](https://www.uco.es/congresos/ifwgp2025/), University of Córdoba, Spain.
   - Plenary talk: Second-order Hamilton--Jacobi equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
