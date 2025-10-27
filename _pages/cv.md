@@ -46,7 +46,7 @@ redirect_from:
 * 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society.
 
 
-## Talks and minisymposiums/sessions
+## Talks & minisymposiums/sessions
 
 - 2025.10.10 -- 14
   - [The First Annual Conference on Differential Equations and Dynamical Systems](https://www.smartchair.org/hp/WD2025/TOP/), University of Science and Technology of China, Hefei, China.
