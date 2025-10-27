@@ -86,7 +86,7 @@ ArXiv: [2503.11171](https://arxiv.org/abs/2503.11171)
 [5] **Qiao Huang**, Nicolas Privault\*. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
 ArXiv: [2502.17853](https://arxiv.org/abs/2502.17853) 
 
-[4] **Qiao Huang**, Nicolas Privault\*. Probabilistic representation of ODE solutions with quantitative estimates, 2025. Accepted by *Journal of Mathematical Analysis and Applications*.
+[4] **Qiao Huang**, Nicolas Privault\*. Probabilistic representation of ODE solutions with quantitative estimates. Accepted by *Journal of Mathematical Analysis and Applications*, 2025.
 ArXiv: [2502.10644](https://arxiv.org/abs/2502.10644) 
 
 [3] **Qiao Huang**, Nicolas Privault\*. Binary Galton-Watson trees with mutations, 2025. 
