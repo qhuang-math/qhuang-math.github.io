@@ -49,7 +49,7 @@ redirect_from:
 ## Talks & minisymposiums/sessions
 
 - 2025.10.29 -- 31
-  - [GSI'25 - 7th International Conference on Geometric Science of Information](https://conference-gsi.org/)
+  - [GSI'25 - 7th International Conference on Geometric Science of Information](https://conference-gsi.org/), Saint-Malo, France.
   - Talk: Stochastic integral invariants \& stochastic integration theorem of Jacobi on Riemannian manifolds.
 - 2025.10.10 -- 14
   - [The First Annual Conference on Differential Equations and Dynamical Systems](https://www.smartchair.org/hp/WD2025/TOP/), University of Science and Technology of China, Hefei, China.
