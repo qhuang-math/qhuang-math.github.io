@@ -30,6 +30,9 @@ toc: true
 
 ### Journal papers
 
+[12] **Qiao Huang**, Nicolas Privault\*. Probabilistic representation of ODE solutions with quantitative estimates. *Journal of Mathematical Analysis and Applications*, 555(2):130195 (27 pp), 2026.
+DOI: [10.1016/j.jmaa.2025.130195](https://doi.org/10.1016/j.jmaa.2025.130195) 
+
 [11] **Qiao Huang**, Wei Wei\*, Jinqiao Duan. Rolling with random slipping and twisting: A large deviation point of view. *Stochastics and Dynamics*, 2450031 (42 pp), 2024.
 DOI: [10.1142/S021949372450031X](https://doi.org/10.1142/S021949372450031X)
 
@@ -77,17 +80,14 @@ DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037)
 
 ## Preprints
 
-[7] Jianyu Hu, **Qiao Huang**\*, Yuanfei Huang. A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics, 2025.
+[6] Jianyu Hu, **Qiao Huang**\*, Yuanfei Huang. A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics, 2025.
 ArXiv: [2508.02469](https://arxiv.org/abs/2508.02469)
 
-[6] Pingyuan Wei, **Qiao Huang**\*, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures, 2025.
+[5] Pingyuan Wei, **Qiao Huang**\*, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures, 2025.
 ArXiv: [2503.11171](https://arxiv.org/abs/2503.11171)
 
-[5] **Qiao Huang**, Nicolas Privault\*. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
+[4] **Qiao Huang**, Nicolas Privault\*. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
 ArXiv: [2502.17853](https://arxiv.org/abs/2502.17853) 
-
-[4] **Qiao Huang**, Nicolas Privault\*. Probabilistic representation of ODE solutions with quantitative estimates. Accepted by *Journal of Mathematical Analysis and Applications*, 2025.
-ArXiv: [2502.10644](https://arxiv.org/abs/2502.10644) 
 
 [3] **Qiao Huang**, Nicolas Privault\*. Binary Galton-Watson trees with mutations, 2025. 
 ArXiv: [2501.10951](https://arxiv.org/abs/2501.10951) 
