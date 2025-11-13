@@ -48,6 +48,10 @@ redirect_from:
 
 ## Talks & minisymposiums/sessions
 
+- 2025.10.31 -- 11.15
+  - Visit Instituto Superior T\'ecnico
+  - Host: Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz)
+  - A tentative attempt to bridge Stochastic Geometric Mechanics \& Stochastic Thermodynamics
 - 2025.10.29 -- 31
   - [GSI'25 - 7th International Conference on Geometric Science of Information](https://conference-gsi.org/), Saint-Malo, France.
   - Talk: Stochastic integral invariants \& stochastic integration theorem of Jacobi on Riemannian manifolds.
