@@ -101,15 +101,15 @@ ArXiv: [2101.03856](https://arxiv.org/abs/2101.03856)
 
 ## Projects
 
-- Study of most probable paths and relative entropy minimization problems for stochastic dynamical systems based on second-order Hamilton–Jacobi–Bellman equations
-  - PI: Qiao Huang
-  - Sponsor: NSF Jiangsu
-  - Duration: 2025.09--2028.08
-
 - Applications of second-order Hamilton--Jacobi--Bellman equations in nonequilibrium thermodynamic systems
   - PI: Qiao Huang
   - Sponsor: NSFC
   - Duration: 2026.01--2028.12
+
+- Study of most probable paths and relative entropy minimization problems for stochastic dynamical systems based on second-order Hamilton–Jacobi–Bellman equations
+  - PI: Qiao Huang
+  - Sponsor: NSF Jiangsu
+  - Duration: 2025.09--2028.08
 
 - Nonstationary shot-noise modeling of neuron membrane potentials by point processes & Combinatorial stochastic analysis for the connectivity of random graphs - applications to vehicular and wireless networks
   - PI: Prof. Nicolas Privault
