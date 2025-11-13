@@ -49,7 +49,7 @@ redirect_from:
 ## Talks & minisymposiums/sessions
 
 - 2025.10.31 -- 11.15
-  - Visit Instituto Superior T\'ecnico
+  - Visit Instituto Superior Técnico
   - Host: Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz)
   - A tentative attempt to bridge Stochastic Geometric Mechanics \& Stochastic Thermodynamics
 - 2025.10.29 -- 31
