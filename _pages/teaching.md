@@ -15,9 +15,10 @@ author_profile: true
 ## Teaching assistant
 
 - Autumn 2024
-  - Course: Probability, Statistics and Stochastic Processes
+  - Undergraduate course: Probability, Statistics and Stochastic Processes
   - Instructor: [Liang Xu](https://math.seu.edu.cn/xl/list.htm)
 
 ## Instructor
 
-TBA
+- Spring 2026
+  - Undergraduate course: Probability and Stochastic Processes
