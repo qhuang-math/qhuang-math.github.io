@@ -49,9 +49,8 @@ redirect_from:
 ## Talks & minisymposiums/sessions
 
 - 2025.10.31 -- 11.15
-  - Visit Instituto Superior Técnico
-  - Host: Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz)
-  - Talk: A tentative attempt to bridge Stochastic Geometric Mechanics \& Stochastic Thermodynamics
+  - Visit Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz) at Instituto Superior Técnico, Lisbon, Portugal.
+  - Talk: A tentative attempt to bridge Stochastic Geometric Mechanics & Stochastic Thermodynamics
 - 2025.10.29 -- 31
   - [GSI'25 - 7th International Conference on Geometric Science of Information](https://conference-gsi.org/), Saint-Malo, France.
   - Talk: Stochastic integral invariants \& stochastic integration theorem of Jacobi on Riemannian manifolds.
@@ -113,6 +112,8 @@ redirect_from:
 - 2022.02.07
   - [Mathematical Physics Seminar Series](https://www.maths.sussex.ac.uk/seminars/mathphys.html), University of Sussex, UK. 
   - Talk (online): A theory of stochastic geometric mechanics.
+- 2022.01.10 -- 15
+  - Visiting Prof. [Marc Arnaudon](https://www.math.u-bordeaux.fr/~marnaudo/) at the University of Bordeaux, France.
 - 2021.09.14 -- 17
   - [Schrödinger's Problem and Optimal Transport (SchröMoka 2021)](https://sites.google.com/view/schromoka-2021-conference/), University of Lisbon, Portugal. 
   - Talk: From Second-order Differential Geometry to a Stochastic Version of Mechanics.
