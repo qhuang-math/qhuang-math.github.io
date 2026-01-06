@@ -30,7 +30,7 @@ toc: true
 
 ### Journal papers
 
-[13] **Qiao Huang**, Nicolas Privault\*. Binary Galton–Watson trees with mutations. Communications in Nonlinear Science and Numerical Simulation, 156:109623 (22 pp), 2026.
+[13] **Qiao Huang**, Nicolas Privault\*. Binary Galton–Watson trees with mutations. *Communications in Nonlinear Science and Numerical Simulation*, 156:109623 (22 pp), 2026.
 DOI: [10.1016/j.cnsns.2025.109623](https://doi.org/10.1016/j.cnsns.2025.109623)
 
 [12] **Qiao Huang**, Nicolas Privault\*. Probabilistic representation of ODE solutions with quantitative estimates. *Journal of Mathematical Analysis and Applications*, 555(2):130195 (27 pp), 2026.
