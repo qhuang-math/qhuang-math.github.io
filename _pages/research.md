@@ -30,6 +30,9 @@ toc: true
 
 ### Journal papers
 
+[13] **Qiao Huang**, Nicolas Privault\*. Binary Galton–Watson trees with mutations. Communications in Nonlinear Science and Numerical Simulation, 156:109623 (22 pp), 2026.
+DOI: [10.1016/j.cnsns.2025.109623](https://doi.org/10.1016/j.cnsns.2025.109623)
+
 [12] **Qiao Huang**, Nicolas Privault\*. Probabilistic representation of ODE solutions with quantitative estimates. *Journal of Mathematical Analysis and Applications*, 555(2):130195 (27 pp), 2026.
 DOI: [10.1016/j.jmaa.2025.130195](https://doi.org/10.1016/j.jmaa.2025.130195) 
 
@@ -80,17 +83,14 @@ DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037)
 
 ## Preprints
 
-[6] Jianyu Hu, **Qiao Huang**\*, Yuanfei Huang. A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics, 2025.
+[5] Jianyu Hu, **Qiao Huang**\*, Yuanfei Huang. A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics, 2025.
 ArXiv: [2508.02469](https://arxiv.org/abs/2508.02469)
 
-[5] Pingyuan Wei, **Qiao Huang**\*, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures, 2025.
+[4] Pingyuan Wei, **Qiao Huang**\*, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures, 2025.
 ArXiv: [2503.11171](https://arxiv.org/abs/2503.11171)
 
-[4] **Qiao Huang**, Nicolas Privault\*. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
+[3] **Qiao Huang**, Nicolas Privault\*. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
 ArXiv: [2502.17853](https://arxiv.org/abs/2502.17853) 
-
-[3] **Qiao Huang**, Nicolas Privault\*. Binary Galton-Watson trees with mutations, 2025. 
-ArXiv: [2501.10951](https://arxiv.org/abs/2501.10951) 
 
 [2] **Qiao Huang**\*, Nicolas Privault. On the random generation of Butcher trees, 2024. 
 ArXiv: [2404.05969](https://arxiv.org/abs/2404.05969) 

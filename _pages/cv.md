@@ -46,8 +46,10 @@ redirect_from:
 * 2023.06 -- present: Invited reviewer for *Mathematical Reviews* of the American Mathematical Society.
 
 
-## Talks & minisymposiums/sessions
+## Talks, visits & minisymposiums/sessions
 
+- 2025.12.11 -- 2026.02.28
+  - Visit Prof. [Nicolas Privault](https://personal.ntu.edu.sg/nprivault/) at Nanyang Technological University, Singapore.
 - 2025.10.31 -- 11.15
   - Visit Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz) at Instituto Superior Técnico, Lisbon, Portugal.
   - Talk: A tentative attempt to bridge Stochastic Geometric Mechanics & Stochastic Thermodynamics
