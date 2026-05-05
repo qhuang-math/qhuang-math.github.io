@@ -23,7 +23,7 @@ redirect_from:
 
 * 2020.10 -- 2022.09: Postdoctoral researcher
   * University of Lisbon, Portugal
-  * Advisor: Prof. [Jean-Claude Zambrini](http://gfm.cii.fc.ul.pt/people/jczambrini/)
+  * Advisor: Prof. [Jean-Claude Zambrini](https://fisica-matematica.pt/people/jean-claude-zambrini/)
 
 
 ## Education
@@ -34,7 +34,7 @@ redirect_from:
   * Thesis: Periodic homogenization of Feller processes with jumps. (In Chinese)
 * 2017.09 -- 2019.02: CSC visiting student
   * University of Illinois at Urbana-Champaign, USA
-  * Advisor: Prof. [Renming Song](http://rsong.web.illinois.edu/)
+  * Advisor: Prof. [Renming Song](https://math.illinois.edu/directory/profile/rsong)
 * 2010.09 -- 2014.06: B.S. in Mathematics
   * Huazhong University of Science and Technology, Wuhan, China
   * Thesis advisor: Prof. [Yanbin Tang](https://www.researchgate.net/profile/Yanbin_Tang)
@@ -48,6 +48,9 @@ redirect_from:
 
 ## Talks, visits & minisymposiums/sessions
 
+- 2026.03.22 -- 2026.03.28
+  - [Workshop on Ergodic Theory & Dynamics of SDEs](http://tianyuan.amss.ac.cn/ztyt/info/2026/146143.html), Tianyuan Mathematics Research Center, Kunming, China.
+  - Talk: A new branching diffusion solver for reaction–diffusion equations.
 - 2025.12.11 -- 2026.02.28
   - Visit Prof. [Nicolas Privault](https://personal.ntu.edu.sg/nprivault/) at Nanyang Technological University, Singapore.
 - 2025.10.31 -- 11.15
