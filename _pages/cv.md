@@ -48,6 +48,9 @@ redirect_from:
 
 ## Talks, visits & minisymposiums/sessions
 
+- 2026.06.05 -- 2026.06.07
+  - [Workshop on Stochastic Models and Randomized Algorithms](http://ins.sjtu.edu.cn:3300/conferences/61/), Shanghai Jiao Tong University, Shanghai, China.
+  - Talk: Stability analysis of a branching diffusion solver for semilinear heat equations.
 - 2026.03.22 -- 2026.03.28
   - [Workshop on Ergodic Theory & Dynamics of SDEs](http://tianyuan.amss.ac.cn/ztyt/info/2026/146143.html), Tianyuan Mathematics Research Center, Kunming, China.
   - Talk: A new branching diffusion solver for reaction–diffusion equations.
