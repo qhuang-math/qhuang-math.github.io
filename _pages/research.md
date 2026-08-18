@@ -83,16 +83,22 @@ DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037)
 
 ## Preprints
 
-[5] Jianyu Hu, **Qiao Huang**\*, Yuanfei Huang. A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics, 2025.
+[7] **Qiao Huang**\*. Invariant connections in geometric mechanics: reduction, nonlocality, and curvature effects. 2026.
+ArXiv: [2608.16561](https://arxiv.org/abs/2608.16561)
+
+[6] Jinqiao Duan, Ting Gao, **Qiao Huang**, Yuanfei Huang. Geometric Methods for Stochastic Dynamical Systems. 2026.
+ArXiv: [2607.27237](https://arxiv.org/abs/2607.27237)
+
+[5] Jianyu Hu, **Qiao Huang**\*, Yuanfei Huang. A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics. 2025.
 ArXiv: [2508.02469](https://arxiv.org/abs/2508.02469)
 
-[4] Pingyuan Wei, **Qiao Huang**\*, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures, 2025.
+[4] Pingyuan Wei, **Qiao Huang**\*, Jinqiao Duan. The stochastic Hamilton--Jacobi--Bellman equation on Jacobi structures. 2025.
 ArXiv: [2503.11171](https://arxiv.org/abs/2503.11171)
 
-[3] **Qiao Huang**, Nicolas Privault\*. Stability analysis of a branching diffusion solver for nonlinear PDEs, 2025. 
+[3] **Qiao Huang**, Nicolas Privault\*. Stability analysis of a branching diffusion solver for nonlinear PDEs. 2025. 
 ArXiv: [2502.17853](https://arxiv.org/abs/2502.17853) 
 
-[2] **Qiao Huang**\*, Nicolas Privault. On the random generation of Butcher trees, 2024. 
+[2] **Qiao Huang**\*, Nicolas Privault. On the random generation of Butcher trees. 2024. 
 ArXiv: [2404.05969](https://arxiv.org/abs/2404.05969) 
 
 [1]	Wei Wei, **Qiao Huang**, Jinqiao Duan. Large deviations for stochastic differential equations driven by heavy-tailed Lévy processes. 2021. 
