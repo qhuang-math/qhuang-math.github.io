@@ -22,3 +22,5 @@ author_profile: true
 
 - Spring 2026
   - Undergraduate course: Probability and Stochastic Processes
+- Autumn 2026
+  - Undergraduate course: Stochastic Differential Equations
