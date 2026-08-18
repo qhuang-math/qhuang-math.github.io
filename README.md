@@ -8,6 +8,7 @@ This is the academic personal website of Qiao Huang, forked from the Github Page
   - author-profile.html
   - footer.html
   - toc.html (added from [jayrobwilliams.github.io/includes/](https://github.com/jayrobwilliams/jayrobwilliams.github.io/tree/master/_includes)toc.html)
+  - head/custom.html (comment out the line with "polyfill.io")
 - _layouts/single.html
 - _pages/
   - about.md
