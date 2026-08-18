@@ -52,7 +52,7 @@ redirect_from:
   - Visit Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz) at Instituto Superior Técnico, Lisbon, Portugal.
   - Talk: Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational Principle.
 - 2026.07.13 -- 17
-  - [2nd International Workshop “New Advances in Contact and Symplectic Hamiltonian Dynamics”](https://sites.google.com/view/nacosy2026/general-information), CUNEF Universidad \& ICMAT in Madrid, Spain.
+  - [2nd International Workshop “New Advances in Contact and Symplectic Hamiltonian Dynamics”](https://sites.google.com/view/nacosy2026/general-information), CUNEF Universidad & ICMAT in Madrid, Spain.
   - Talk: Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational.
 - 2026.07.06 -- 10
   - [The 15th AlMS Conference](https://www.aimsconference.org/conferences/2026/index.html), Athens, Greece.
