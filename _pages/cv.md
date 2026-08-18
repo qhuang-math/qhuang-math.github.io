@@ -48,17 +48,28 @@ redirect_from:
 
 ## Talks, visits & minisymposiums/sessions
 
-- 2026.06.05 -- 2026.06.07
+- 2026.07.18 -- 08.01
+  - Visit Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz) at Instituto Superior Técnico, Lisbon, Portugal.
+  - Talk: Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational Principle.
+- 2026.07.13 -- 17
+  - [2nd International Workshop “New Advances in Contact and Symplectic Hamiltonian Dynamics”](https://sites.google.com/view/nacosy2026/general-information), CUNEF Universidad \& ICMAT in Madrid, Spain.
+  - Talk: Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational.
+- 2026.07.06 -- 10
+  - [The 15th AlMS Conference](https://www.aimsconference.org/conferences/2026/index.html), Athens, Greece.
+  - Talk:
+    - Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational Principle.
+    - A new branching diffusion solver for reaction-diffusion equations.
+- 2026.06.05 -- 07
   - [Workshop on Stochastic Models and Randomized Algorithms](http://ins.sjtu.edu.cn:3300/conferences/61/), Shanghai Jiao Tong University, Shanghai, China.
   - Talk: Stability analysis of a branching diffusion solver for semilinear heat equations.
-- 2026.03.22 -- 2026.03.28
+- 2026.03.22 -- 28
   - [Workshop on Ergodic Theory & Dynamics of SDEs](http://tianyuan.amss.ac.cn/ztyt/info/2026/146143.html), Tianyuan Mathematics Research Center, Kunming, China.
   - Talk: A new branching diffusion solver for reaction–diffusion equations.
 - 2025.12.11 -- 2026.02.28
   - Visit Prof. [Nicolas Privault](https://personal.ntu.edu.sg/nprivault/) at Nanyang Technological University, Singapore.
 - 2025.10.31 -- 11.15
   - Visit Prof. [Ana Bela Cruzeiro](https://math.tecnico.ulisboa.pt/faculty/professor.php?who=abcruz) at Instituto Superior Técnico, Lisbon, Portugal.
-  - Talk: A tentative attempt to bridge Stochastic Geometric Mechanics & Stochastic Thermodynamics
+  - Talk: A tentative attempt to bridge Stochastic Geometric Mechanics & Stochastic Thermodynamics.
 - 2025.10.29 -- 31
   - [GSI'25 - 7th International Conference on Geometric Science of Information](https://conference-gsi.org/), Saint-Malo, France.
   - Talk: Stochastic integral invariants \& stochastic integration theorem of Jacobi on Riemannian manifolds.
