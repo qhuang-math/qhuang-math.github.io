@@ -53,7 +53,7 @@ redirect_from:
   - Talk: Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational Principle.
 - 2026.07.13 -- 17
   - [2nd International Workshop “New Advances in Contact and Symplectic Hamiltonian Dynamics”](https://sites.google.com/view/nacosy2026/general-information), CUNEF Universidad & ICMAT in Madrid, Spain.
-  - Talk: Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational.
+  - Talk: Cartan--Schouten Connections: Geometric Reduction and a Connection-Dependent Variational Principle.
 - 2026.07.06 -- 10
   - [The 15th AlMS Conference](https://www.aimsconference.org/conferences/2026/index.html), Athens, Greece.
   - Talk:
@@ -79,6 +79,9 @@ redirect_from:
 - 2025.09.09 -- 12
   - [XXXIII International Fall Workshop on Geometry and Physics](https://www.uco.es/congresos/ifwgp2025/), University of Córdoba, Spain.
   - Plenary talk: Second-order Hamilton--Jacobi equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
+- 2025.08.24 -- 30
+  - [Workshop on Ergodic Theory & Dynamics of SDEs](http://tianyuan.amss.ac.cn/ztyt/info/2026/146143.html), Tianyuan Mathematics Research Center, Kunming, China.
+  - Talk: A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics.
 - 2025.07.21 -- 25
   - [The 8th International Conference on Random Dynamical Systems](https://www.mathematik.uni-konstanz.de/neamtu/research/sonderforschungsbereich), University of Konstanz, Germany.
   - Talk: Second-order Hamilton--Jacobi--Bellman equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.

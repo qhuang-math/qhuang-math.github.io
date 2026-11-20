@@ -83,6 +83,9 @@ DOI: [10.3390/psf2022005037](https://doi.org/10.3390/psf2022005037)
 
 ## Preprints
 
+[8] Yuanke Chen, Jinqiao Duan, **Qiao Huang**\*. Covariant Calculus and Hamiltonian Flows for Nonlocal Wasserstein Metrics. 2026.
+ArXiv: [2611.01979](https://arxiv.org/abs/2611.01979)
+
 [7] **Qiao Huang**\*. Invariant connections in geometric mechanics: reduction, nonlocality, and curvature effects. 2026.
 ArXiv: [2608.16561](https://arxiv.org/abs/2608.16561)
 
