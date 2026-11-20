@@ -80,7 +80,7 @@ redirect_from:
   - [XXXIII International Fall Workshop on Geometry and Physics](https://www.uco.es/congresos/ifwgp2025/), University of Córdoba, Spain.
   - Plenary talk: Second-order Hamilton--Jacobi equations at the crossroads of stochastic geometric mechanics and stochastic thermodynamics.
 - 2025.08.24 -- 30
-  - [Workshop on Ergodic Theory & Dynamics of SDEs](http://tianyuan.amss.ac.cn/ztyt/info/2026/146143.html), Tianyuan Mathematics Research Center, Kunming, China.
+  - [Workshop on Infinite-Dimensional Stochastic Dynamical Systems](http://tianyuan.amss.ac.cn/ztyt/info/2025/145954.html), Tianyuan Mathematics Research Center, Kunming, China.
   - Talk: A study of path measures based on second-order Hamilton--Jacobi equations and their applications in stochastic thermodynamics.
 - 2025.07.21 -- 25
   - [The 8th International Conference on Random Dynamical Systems](https://www.mathematik.uni-konstanz.de/neamtu/research/sonderforschungsbereich), University of Konstanz, Germany.
